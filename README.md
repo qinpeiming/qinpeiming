@@ -2,7 +2,7 @@
 - 👀 I’m interested in OpenSees\Matlab
 - 🌱 I’m currently learning OpenSees
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me qin[eiming@live.com
+- 📫 How to reach me qineiming@live.com
 
 <!---
 qinpeiming/qinpeiming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
